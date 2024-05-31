@@ -1,6 +1,5 @@
 import { useState } from 'react';
 import './app.css';
-import axios from 'axios';
 
 function App() {
     const [userLink, setUserLink] = useState('');
